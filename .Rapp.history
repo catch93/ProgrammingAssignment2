@@ -1,0 +1,32 @@
+getwd
+getwd()
+library(RWeka)
+d <-#
+read.arff#
+(file("weka-3-7-11/data/#
+iris.arff#
+"))#
+d <-#
+read.arff#
+(file("weka-3-7-11/data/#
+iris.arff#
+"))
+d <- read.arff(file("weka-3-7-11/data/iris.arff"))
+library(RWeka)
+d <- read.arff(file("weka-3-7-11/data/iris.arff"))
+getwd()
+d <- read.arff(file("weka-3-7-11/data/iris.arff"))
+echo $WEKAHOME
+$WEKAHOME
+getwd()
+library(RWeka)
+d <- read.arff(file("weka-3-7-11/data/iris.arff"))
+echo $WEKAHOME
+WEKAHOME
+getwd(WEKAHOME)
+foo <- make_Weka_classifier("weka/classifiers/trees/J48", c("bar", "Weka_tree"))
+print(foo)
+fm <- foo(Species ~ ., data = iris, control = Weka_control(S = TRUE, M = 5))
+fm
+ls()
+dir()
